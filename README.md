@@ -20,4 +20,4 @@ Finding patterns others miss and solving problems others avoid.
 
 Whether it’s automating a broken system or unlocking new value through analytics, I’m the guy who turns chaos into clarity — and models into momentum.
 
-Let’s build the future of smart, efficient, data-driven business — together.
+Let’s build the future of smart, efficient, data-driven business — together. 
