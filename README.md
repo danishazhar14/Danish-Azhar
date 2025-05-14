@@ -4,7 +4,7 @@
 
 Hi, I’m Danish Azhar — a data scientist and product strategist rolled into one, obsessed with the art of turning raw data into real-world results.
 
-### 🔍 Three Words: Problem Solver. System Optimizer. Impact Chaser.
+### 🔍 My Three: Problem Solver. System Optimizer. Impact Chaser.
 
 I specialize in building intelligent, scalable solutions that detect fraud before it strikes, predict business bottlenecks before they surface, and streamline decision-making before it slows down growth. From working on AI-led logistics at AgReliant Genetics to enabling efficient disaster aid through predictive modeling at Tayaba Welfare International Association, I’ve thrived at the intersection of data, domain expertise, and human-centered design.
 
