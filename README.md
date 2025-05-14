@@ -23,3 +23,23 @@ Looking to collaborate on high-impact, data-first projects that scale with preci
 Whether it’s automating a broken system or unlocking new value through analytics, I’m the guy who turns chaos into clarity — and models into momentum.
 
 Let’s build the future of smart, efficient, data-driven business — together 🚀 
+
+# 💻 Tech Stack
+
+### 🧑‍💻 Programming Languages:
+Python, R, SQL, Java, C++, PHP, PowerShell, Bash
+
+### ⚙️ Data Science & Machine Learning:
+Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, MLflow, SAS Enterprise Miner, @RISK, Palisade, StatsModels, NLTK, Matplotlib, Seaborn, Plotly, Scipy
+
+### 📊 Big Data & Databases:
+Apache Spark, PySpark, Hadoop, HDFS, Snowflake, Databricks, Amazon DynamoDB, MongoDB, PostgreSQL, MySQL, SQLite, Microsoft SQL Server
+
+### 💻 Cloud Platforms & DevOps:
+AWS, Google Cloud Platform (GCP), Microsoft Azure, Render, GitHub, GitLab, GitHub Actions, GitLab CI, Meta, Kubernetes, Anaconda
+
+### 📈 BI, Visualization & Analytics Tools:
+Tableau, Power BI, Excel (Advanced), VBA, Smartsheet, Salesforce, Google Analytics, SPSS, MATLAB
+
+### 📄 Workflow & Collaboration:
+JIRA, Confluence, Microsoft PowerPoint, Adobe Creative Cloud Suite (Photoshop, Lightroom, After Effects, Acrobat), Unreal Engine
