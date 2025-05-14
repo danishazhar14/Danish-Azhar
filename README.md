@@ -1,6 +1,8 @@
 # Danish-Azhar
 
-### 💡 About Me
+# 💡 About Me
+____________________________________________________________________________________________________________________________________________________________________
+
 Hi, I’m Danish Azhar — a data scientist and product strategist rolled into one, obsessed with the art of turning raw data into real-world results.
 
 🔍 Problem Solver. System Optimizer. Impact Chaser.
